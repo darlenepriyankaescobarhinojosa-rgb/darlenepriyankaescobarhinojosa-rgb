@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-DDA0DD?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/darlenepiryankaescobarhinojosa-rgb">
+<a href="https://github.com/darlenepriyankaescobarhinojosa-rgb">
 <img src="https://img.shields.io/badge/GitHub-Profile-C084FC?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -115,11 +115,12 @@ Software Engineering
 
 | 💜 Project | Description | My Role | Technologies |
 |------------|------------|---------|--------------|
-| ♟ Chess | Chess interface focused on layout and styling | Frontend Developer | HTML • CSS |
+|  Chesso | Chess interface focused on layout and styling | Frontend Developer | HTML • CSS |
 | 💻 Front-8M | Coursework frontend application | UI Development | TypeScript |
 | ⚙ Backend-8M | Backend service handling data processing | Backend Developer | Python |
 | 🔐 Ayni Project | Security platform developed collaboratively | Full Stack Contributor | Full Stack |
 | 📦 Mistral | Backend architecture project | Backend Implementation | Python |
+| 🤖 Restaurant Chatbot System | Sistema que automatiza pedidos y reservas mediante chatbot | Full Stack Developer | Python • Streamlit |
 
 ---
 
@@ -127,9 +128,9 @@ Software Engineering
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepiryankaescobarhinojosa-rgb&repo=front-8m&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepriyankaescobarhinojosa-rgb&repo=front-8m&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepiryankaescobarhinojosa-rgb&repo=backend_8M&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepriyankaescobarhinojosa-rgb&repo=backend_8M&theme=tokyonight"/>
 
 </p>
 
