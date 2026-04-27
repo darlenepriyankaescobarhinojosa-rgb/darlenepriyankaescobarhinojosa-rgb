@@ -121,17 +121,7 @@ const darlene = {
 | 📦 &nbsp; Mistral | Backend architecture project | Backend Implementation | Python |
 | 🤖 &nbsp; Restaurant Chatbot System | Sistema que automatiza pedidos y reservas mediante chatbot | Full Stack Developer | Python • Streamlit |
 
----
-
-# ⭐ Featured Repositories
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepriyankaescobarhinojosa-rgb&repo=front-8m&theme=tokyonight"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepriyankaescobarhinojosa-rgb&repo=backend_8M&theme=tokyonight"/>
-</p>
-
----
+----
 
 # 📊 GitHub Stats
 
