@@ -126,9 +126,7 @@ const darlene = {
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=darlenepriyankaescobarhinojosa-rgb&show_icons=true&theme=tokyonight&hide_border=true"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlenepriyankaescobarhinojosa-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlenepriyankaescobarhinojosa-rgb&layout=donut&theme=tokyonight&hide_border=true&title_color=C084FC&text_color=ffffff&bg_color=0d1117"/>
 </p>
 
 ---
