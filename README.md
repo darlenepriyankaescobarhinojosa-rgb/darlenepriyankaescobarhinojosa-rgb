@@ -139,9 +139,9 @@ Software Engineering
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=darlenepiryankaescobarhinojosa-rgb&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=darlenepriyankaescobarhinojosa-rgb&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlenepiryankaescobarhinojosa-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlenepriyankaescobarhinojosa-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -150,7 +150,7 @@ Software Engineering
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=darlenepiryankaescobarhinojosa-rgb&color=DA70D6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=darlenepriyankaescobarhinojosa-rgb&color=DA70D6&style=for-the-badge"/>
 </p>
 
 ---
@@ -167,7 +167,7 @@ Software Engineering
 <img src="https://img.shields.io/badge/Email-Contact-DDA0DD?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/darlenepiryankaescobarhinojosa-rgb">
+<a href="https://github.com/darlenepriyankaescobarhinojosa-rgb">
 <img src="https://img.shields.io/badge/GitHub-Profile-C084FC?style=for-the-badge&logo=github"/>
 </a>
 
