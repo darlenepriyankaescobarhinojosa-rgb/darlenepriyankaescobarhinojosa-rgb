@@ -21,11 +21,9 @@
 <a href="https://www.linkedin.com/in/darlene-escobar-hinojosa">
 <img src="https://img.shields.io/badge/LinkedIn-Darlene_Escobar-E6A8D7?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="mailto:darlenepriyankaescobarhinojosa@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-DDA0DD?style=for-the-badge&logo=gmail"/>
 </a>
-
 <a href="https://github.com/darlenepriyankaescobarhinojosa-rgb">
 <img src="https://img.shields.io/badge/GitHub-Profile-C084FC?style=for-the-badge&logo=github"/>
 </a>
@@ -95,19 +93,20 @@ const darlene = {
 
 ---
 
-# 🌱 Skills Growth
+# 🌸 Skills Growth
 
-Frontend  
-🟣🟣🟣🟣⚪ 80%
+<br>
 
-Backend  
-🟣🟣🟣⚪⚪ 65%
+<p align="center">
 
-Databases  
-🟣🟣🟣⚪⚪ 60%
+| Skill | Progress | Level |
+|:------|:--------:|:-----:|
+| 🎨 &nbsp; Frontend | ![80%](https://progress-bar.xyz/80/?color=C084FC&width=220&suffix=%) | `80%` |
+| ⚙️ &nbsp; Software Engineering | ![75%](https://progress-bar.xyz/75/?color=C084FC&width=220&suffix=%) | `75%` |
+| 🔧 &nbsp; Backend | ![65%](https://progress-bar.xyz/65/?color=C084FC&width=220&suffix=%) | `65%` |
+| 🗄️ &nbsp; Databases | ![60%](https://progress-bar.xyz/60/?color=C084FC&width=220&suffix=%) | `60%` |
 
-Software Engineering  
-🟣🟣🟣🟣⚪ 75%
+</p>
 
 ---
 
@@ -115,23 +114,21 @@ Software Engineering
 
 | 💜 Project | Description | My Role | Technologies |
 |------------|------------|---------|--------------|
-|  Chesso | Chess interface focused on layout and styling | Frontend Developer | HTML • CSS |
-| 💻 Front-8M | Coursework frontend application | UI Development | TypeScript |
-| ⚙ Backend-8M | Backend service handling data processing | Backend Developer | Python |
-| 🔐 Ayni Project | Security platform developed collaboratively | Full Stack Contributor | Full Stack |
-| 📦 Mistral | Backend architecture project | Backend Implementation | Python |
-| 🤖 Restaurant Chatbot System | Sistema que automatiza pedidos y reservas mediante chatbot | Full Stack Developer | Python • Streamlit |
+| ♟️ &nbsp; Chesso | Chess interface focused on layout and styling | Frontend Developer | HTML • CSS |
+| 💻 &nbsp; Front-8M | Coursework frontend application | UI Development | TypeScript |
+| ⚙️ &nbsp; Backend-8M | Backend service handling data processing | Backend Developer | Python |
+| 🔐 &nbsp; Ayni Project | Security platform developed collaboratively | Full Stack Contributor | Full Stack |
+| 📦 &nbsp; Mistral | Backend architecture project | Backend Implementation | Python |
+| 🤖 &nbsp; Restaurant Chatbot System | Sistema que automatiza pedidos y reservas mediante chatbot | Full Stack Developer | Python • Streamlit |
 
 ---
 
 # ⭐ Featured Repositories
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepriyankaescobarhinojosa-rgb&repo=front-8m&theme=tokyonight"/>
-
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepriyankaescobarhinojosa-rgb&repo=backend_8M&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -139,11 +136,9 @@ Software Engineering
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=darlenepriyankaescobarhinojosa-rgb&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlenepriyankaescobarhinojosa-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -159,32 +154,26 @@ Software Engineering
 # 🤝 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/darlene-escobar-hinojosa">
 <img src="https://img.shields.io/badge/LinkedIn-Darlene_Escobar-E6A8D7?style=for-the-badge&logo=linkedin"/>
 </a>
-
+&nbsp;
 <a href="mailto:darlenepriyankaescobarhinojosa@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-DDA0DD?style=for-the-badge&logo=gmail"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/darlenepriyankaescobarhinojosa-rgb">
 <img src="https://img.shields.io/badge/GitHub-Profile-C084FC?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
 ---
 
 <p align="center">
-
-🌸 *"Technology allows us to transform ideas into real impact."*  
-💜 Designed with love by **Darlene Escobar**
-
+🌸 <i>"Technology allows us to transform ideas into real impact."</i><br><br>
+💜 Designed with love by <b>Darlene Escobar</b>
 </p>
 
----
-
 <p align="center">
-<img src="https://i.pinimg.com/736x/c7/6d/f4/c76df40aeb819878fca5289fa5efbf98.jpg" width="600">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E6C9F2&height=120&section=footer"/>
 </p>
